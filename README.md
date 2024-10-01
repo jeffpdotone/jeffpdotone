@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Switch Automation
+
+- 📫 How to reach me: 
+Book an appointment in my website https://jeffp.one
+
 <!--
 **jeffpdotone/jeffpdotone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
